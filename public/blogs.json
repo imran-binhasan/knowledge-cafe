@@ -1,0 +1,48 @@
+[
+    {
+      "cover": "https://i.ibb.co.com/vqvFZ32/tech.jpg",
+      "author_img": "https://source.unsplash.com/100x100/?person-1",
+      "author_name": "Jane Doe",
+      "post_date": "October 5, 2024",
+      "reading_time": 5,
+      "title": "The Future of AI: What to Expect in the Next Decade",
+      "hashtags": ["#AI", "#Technology", "#FutureTrends"]
+    },
+    {
+      "cover": "https://i.ibb.co.com/6yGqzzz/finance.jpg",
+      "author_img": "https://source.unsplash.com/100x100/?person-2",
+      "author_name": "John Smith",
+      "post_date": "September 22, 2024",
+      "reading_time": 7,
+      "title": "10 Investment Strategies for Beginners",
+      "hashtags": ["#Finance", "#Investing", "#PersonalFinance"]
+    },
+    {
+      "cover": "https://i.ibb.co.com/Z6tgrhM/travel.jpg",
+      "author_img": "https://source.unsplash.com/100x100/?person-3",
+      "author_name": "Emily Clark",
+      "post_date": "August 15, 2024",
+      "reading_time": 6,
+      "title": "Top 5 Destinations for Solo Travelers in 2024",
+      "hashtags": ["#Travel", "#SoloTravel", "#Adventure"]
+    },
+    {
+      "cover": "https://i.ibb.co.com/Z6tgrhM/travel.jpg",
+      "author_img": "https://source.unsplash.com/100x100/?person-4",
+      "author_name": "Michael Brown",
+      "post_date": "July 30, 2024",
+      "reading_time": 4,
+      "title": "How to Stay Fit While Working a 9-to-5 Job",
+      "hashtags": ["#Fitness", "#WorkLifeBalance", "#Health"]
+    },
+    {
+      "cover": "https://i.ibb.co.com/Z6tgrhM/travel.jpg",
+      "author_img": "https://source.unsplash.com/100x100/?person-5",
+      "author_name": "Sophia Lee",
+      "post_date": "June 18, 2024",
+      "reading_time": 8,
+      "title": "The Art of Meal Prepping: Save Time and Eat Healthy",
+      "hashtags": ["#Food", "#MealPrep", "#HealthyEating"]
+    }
+  ]
+  
